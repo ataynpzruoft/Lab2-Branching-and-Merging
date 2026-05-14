@@ -7,7 +7,6 @@ The main topic of this first lab activity is branching and merging in git.
 https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
 walkthrough of the steps we will be going through in the lab. We encourage you to use
 it as a reference as needed. The short video (about 4 minutes) is well worth a quick view
-in the link above.
 
 The first coding part in this activity is (very loosely) based on a common problem encountered in
 problems posted on https://projecteuler.net/archives which is another interesting source of challenging
