@@ -1,6 +1,6 @@
 
     public class Polymorphism {
-        
+
 
         /**
          * Returns the role.
@@ -12,7 +12,10 @@
             if (p instanceof Student){
                 return "Student";
             }
-            return p.role;
+            else {
+                return p.role;
+            }
+
         }
     }
 
